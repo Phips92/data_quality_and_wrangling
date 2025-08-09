@@ -13,6 +13,8 @@ This project was created as part of the IU course **DLBDSDQDW01 - Data Quality a
 - `05_clean_active.py` - Normalize active/inactive status
 - `06_clean_satisfaction.py` - Convert client satisfaction to numeric
 - `07_handle_missing.py` - Handle missing values using custom strategies
+- `08_advanced techniques.py` - Advanced wrangling techniques (e.g., outlier handling, transformations)
+- `model_comparison.py` - Compare and evaluate alternative cleaning/imputation strategies
 
 ---
 
@@ -32,6 +34,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/) and place it
 - Data cleaning (standardization, conversion, imputation)
 - Missing value handling
 - Pipeline design for real-world data wrangling
+- Advanced techniques and strategy comparison
 
 ---
 
